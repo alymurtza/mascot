@@ -24,8 +24,7 @@ Wi-Fi, Ethernet and your phone's connection, together.</p>
 - **Browser extension** for Chrome, Brave and Edge.
 - **Picks up where it left off** after a dropped connection, a restart or a crash.
 
-<p align="center"><img src="images/networks.png" width="49%" alt="The Networks page: Ethernet and Wi-Fi always in use, an iPhone kept as a backup, and the data each used">
-<img src="images/night-garden-theme.png" width="49%" alt="The Queue page in the Night garden theme, with koi swimming behind it"></p>
+<p align="center"><img src="images/networks.png" alt="The Networks page: Ethernet and Wi-Fi always in use, an iPhone kept as a backup, and the data each used"></p>
 
 ## Install
 
