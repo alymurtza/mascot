@@ -7,7 +7,7 @@ Wi-Fi, Ethernet and your phone's connection, together.</p>
 
 <p align="center"><a href="https://github.com/alymurtza/mascot/releases"><b>Download</b></a> ·
 <a href="https://chromewebstore.google.com/detail/jdbajgaajkoafbdfgnldbfmloclfgnjg"><b>Browser extension</b></a> ·
-<a href="https://www.patreon.com/cw/AnalyticAly"><b>Support Mascot</b></a></p>
+<a href="https://www.patreon.com/AnalyticAly"><b>Support Mascot</b></a></p>
 
 <p align="center"><img src="images/downloads.png" alt="Mascot's Downloads page: the total speed over Ethernet and Wi-Fi together, and two downloads in progress"></p>
 
@@ -76,7 +76,7 @@ Found a problem or have an idea? [Open an issue](https://github.com/alymurtza/ma
 ## Support Mascot
 
 Mascot is free, with no ads. If it helps you, you can support it on
-[Patreon](https://www.patreon.com/cw/AnalyticAly).
+[Patreon](https://www.patreon.com/AnalyticAly).
 
 ## Privacy
 
