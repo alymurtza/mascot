@@ -5,7 +5,10 @@
 <p align="center">Download files and torrents faster by using all your internet connections at once:<br>
 Wi-Fi, Ethernet and your phone's connection, together.</p>
 
-<p align="center"><a href="https://github.com/alymurtza/mascot/releases"><b>Download</b></a></p>
+<p align="center"><a href="https://github.com/alymurtza/mascot/releases"><b>Download</b></a> ·
+<a href="https://chromewebstore.google.com/detail/jdbajgaajkoafbdfgnldbfmloclfgnjg"><b>Browser extension</b></a></p>
+
+<p align="center"><img src="images/downloads.png" alt="Mascot's Downloads page: the total speed over Ethernet and Wi-Fi together, and two downloads in progress"></p>
 
 - **Every network at once.** Each file is split into pieces, and every network you allow
   fetches pieces at the same time.
@@ -15,8 +18,14 @@ Wi-Fi, Ethernet and your phone's connection, together.</p>
   and sleep or shut down when everything finishes.
 - **Data limits** per network, and a history of the data each one used.
 - **Torrents and magnet links**, with the files you choose.
-- **Browser extension** for Chrome, Brave, Edge and Firefox.
+- **Groups**: files that belong together show as one, to start, pause or delete at once.
+  Paste many links and they're added in the background while you carry on.
+- **Rules** choose the folder and name by file type, name or site.
+- **Browser extension** for Chrome, Brave and Edge.
 - **Picks up where it left off** after a dropped connection, a restart or a crash.
+
+<p align="center"><img src="images/networks.png" width="49%" alt="The Networks page: Ethernet and Wi-Fi always in use, an iPhone kept as a backup, and the data each used">
+<img src="images/night-garden-theme.png" width="49%" alt="The Queue page in the Night garden theme, with koi swimming behind it"></p>
 
 ## Install
 
@@ -53,14 +62,11 @@ doesn't recognise who made it and may warn you or block it.
 
 The extension sends your browser downloads to Mascot. It needs the Mascot app installed.
 
-- **Chrome, Brave, Edge**: from the Chrome Web Store (coming soon). Until then: download
-  `Mascot-Extension-Chrome.zip` from the Releases page and unzip it, open `chrome://extensions`
-  (`brave://extensions`, `edge://extensions`), turn on **Developer mode**, click
-  **Load unpacked** and choose the unzipped folder.
-- **Firefox**: coming to Firefox Add-ons.
+- **Chrome, Brave, Edge**: [Mascot on the Chrome Web Store](https://chromewebstore.google.com/detail/jdbajgaajkoafbdfgnldbfmloclfgnjg)
+  (Edge asks you to allow extensions from other stores first).
 
-Downloads go to Mascot as they start, or right-click a link, image or video and choose
-**Download with Mascot**. While Mascot is closed, downloads wait in the extension and go over
+Downloads go to Mascot as they start, or right-click a link, magnet link, image or video and
+choose **Download with Mascot**. While Mascot is closed, downloads wait in the extension and go over
 when it opens.
 
 ## Help
