@@ -78,6 +78,18 @@ Found a problem or have an idea? [Open an issue](https://github.com/alymurtza/ma
 Mascot is free, with no ads. If it helps you, you can support it on
 [Patreon](https://www.patreon.com/AnalyticAly).
 
+## Code signing policy
+
+Free code signing provided by [SignPath.io](https://about.signpath.io), certificate by
+[SignPath Foundation](https://signpath.org).
+
+- Committers and reviewers: [alymurtza](https://github.com/alymurtza)
+- Approvers: [alymurtza](https://github.com/alymurtza)
+
+Privacy: this program will not transfer any information to other networked systems unless
+specifically requested by the user or the person installing or operating it. See
+[PRIVACY.md](PRIVACY.md).
+
 ## Privacy
 
 Mascot sends nothing about you anywhere. See the [privacy policy](PRIVACY.md).
